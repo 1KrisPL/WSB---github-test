@@ -19,12 +19,11 @@ h3 {
   text-shadow: 1px 1px 3px black;
 }
 
-img{
-    background-color: blue;
-    peding 20px
+img {
+  background-color: blue;
 }
 
-p{
-    text-align: left;
-    letter-spacing: 1px
+p {
+  text-align: center;
+  letter-spacing: 1px;
 }
